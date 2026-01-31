@@ -87,7 +87,7 @@
             background = rgb(20, 20, 20),
             ["1"] = hex("#FF7AF8"), 
             ["2"] = hex("#FF00F2"),
-            ["3"] = hex("#B800AD"),
+            ["3"] = hex("#FF7AF8"),
         },
 
         utility = {
